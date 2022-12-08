@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "bayes",
+      "setup": "",
+      "run": "python3 bayes.py",
+      "input": "",
+      "output": "0.12",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
